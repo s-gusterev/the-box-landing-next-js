@@ -1,0 +1,9 @@
+#root {
+}
+
+html,
+body {
+  overflow-x: hidden;
+  min-width: 320px;
+  font-family: 'Work Sans', sans-serif;
+}
